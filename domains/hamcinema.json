@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "ctmham"
+  },
+  "repo": "HaM",
+  "branch": "main",
+  "record": {
+    "type": "CNAME",
+    "value": "ctmham.github.io"
+  }
+}
